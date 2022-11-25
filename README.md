@@ -33,11 +33,14 @@
   
 <!-- Updated Github Stats -->
 ## 📊 Github Statistics<br/>
-<p align="center">
-<a href="https://github.com/DismalShadowX/"><img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&include_all_commits=true&theme=react&hide_border=false" alt="DismalShadowX's Github Stats" /></a>
-<p align="center">
-<a href="https://github.com/DismalShadowX/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=react&hide_border=true" /></a></p>
- 
+  <p align="center">
+<a href="https://github.com/DismalShadowX/">
+  <img src="https://github-readme-stats.vercel.app/api?username=DismalShadowX&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+    </a></p>
+  <p align="center">
+<a href="https://github.com/DismalShadowX/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DismalShadowX&layout=compact&theme=radical&langs_count=5" />
+    </a></p>
 <!-- Line Break --><h1></h1>
   
 ## 💻 My Workstation<br/>
@@ -55,7 +58,7 @@
   📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>Proton.me</a>
 </p>
 <p align="center">
-  <a href="#"><img src="https://badges.pufler.dev/visits/DismalShadowX/DismalShadowX"></a> lurkers and nerds have come here
+  <a href="#">:eyes:</a> lurkers and nerds have come here
 </p>
 
 <details>
