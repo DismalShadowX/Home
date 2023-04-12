@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Developer.;Freelancer+from+Aguada,PR.;Focus+On+Technology...;Building+Computer+Hardwares...;Web+Development,+Networking;And+Mobile+Phones.;Linux+Administrator"></a>
+  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Developer.;Freelancer+from+The+Worlds+Between;Focus+On+Technology...;Building+Computer+Hardwares...;Web+Development,+Networking;And+Mobile+Phones.;Linux+Administrator"></a>
 </p>
 
 <!-- Replace any text here if you don't like typing SVG
@@ -13,7 +13,7 @@
 
 <!-- ## Social Badges -->
 <p align="center">
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="https://discord.gg/CsfSnqsPq9"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <a href="https://www.twitch.tv/dismalshadowx"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 <a href="https://steamcommunity.com/id/dismalshadow/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
@@ -46,7 +46,7 @@
 ## 💻 My Workstation<br/>
   <p align="center">
   <img src="https://img.shields.io/badge/windows 11-blue?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen_5_5600G-red?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_7_5800x3D-red?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -55,7 +55,7 @@
 </p>
   
 <p align="center">
-  📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>Proton.me</a>
+  📫 How to reach me: <a href='mailto:DismalShadow@proton.me'>New Email coming soon</a>
 </p>
 <p align="center">
   <a href="#">:eyes:</a> lurkers and nerds have come here
