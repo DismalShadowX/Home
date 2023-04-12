@@ -45,9 +45,9 @@
   
 ## 💻 My Workstation<br/>
   <p align="center">
-  <img src="https://img.shields.io/badge/windows 11-blue?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows 11 Pro-blue?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_7_5800x3D-red?style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-blue?style=for-the-badge&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/RAM-32GB-blue?style=for-the-badge&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white" />
