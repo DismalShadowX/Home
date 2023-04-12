@@ -2,7 +2,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Developer;Independent/Freelancer+from...;The+Worlds+Between;Focus+On+Technology...;Building+Computer+Hardwares...;Web+Development,+Networking;And+Mobile+Phones.;Linux+Administrator"></a>
+  <a href="https://github.com/DismalshadowX/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&lines=Amateur+Developer;Independent/Freelancer;...from+The+Worlds+Between;Focus+On+Technology...;Building+Computer+Hardwares...;Web+Development,+Networking;And+Mobile+Phones.;Linux+Administrator"></a>
 </p>
 
 <!-- Replace any text here if you don't like typing SVG
