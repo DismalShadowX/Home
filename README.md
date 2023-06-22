@@ -17,7 +17,7 @@
 <a href="https://discord.gg/CsfSnqsPq9"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <a href="https://www.twitch.tv/dismalshadowx"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
 <a href="https://steamcommunity.com/id/dismalshadow/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
-<a rel="me" href="https://universeodon.com/@DismalShadow"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a></p>
+<a rel="me" href="https://social.everythingbagel/@ShadowX"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a></p>
   
 <!-- ## GitHub Badges -->
 <div align="center">
